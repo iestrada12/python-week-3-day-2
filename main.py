@@ -196,7 +196,7 @@ print(type(num1) + type(num2)
 #################################formatting strings####################
 # slide 19 -22
 
-
+ddddd
 # Strings Formatting Practice #1
 # We need to print the associate name and number within the following sentence:
 # "Dear (associate_name), your associate number is: (associate_number)"

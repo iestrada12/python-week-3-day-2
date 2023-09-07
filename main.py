@@ -180,7 +180,7 @@ print(type(decimal_num))
 num1 = 7.5
 num2 = 2.5
 # Next, print on the screen the data type that results from the sum of both numbers.
-print(type(num1) + type(num2)
+print(type(num1) + type(num2))
 #################################Data Type conversions####################
 # slides 12 -19
 # Data Type Conversions Practice #1
